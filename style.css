@@ -1,0 +1,18 @@
+body
+{
+    font-family: 'Galada', cursive;
+    background: white;
+}
+
+.footer
+{
+    position: fixed;
+    color:aliceblue;
+    bottom:0;
+    width:100%;
+    font-size: 18px;
+    background: slategrey;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px steelblue;
+}
